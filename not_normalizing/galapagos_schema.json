@@ -1,0 +1,13 @@
+[
+  { "mode": "NULLABLE", "type": "STRING", "name": "mmsi", "description": "The mmsi." },
+  { "mode": "NULLABLE", "type": "STRING", "name": "status", "description": "The status" },
+  { "mode": "NULLABLE", "type": "STRING", "name": "unknown_field_1", "description": "The Rate of Turn indicator in degrees per minute" },
+  { "mode": "NULLABLE", "type": "STRING", "name": "speed", "description": "The speed." },
+  { "mode": "NULLABLE", "type": "STRING", "name": "latitude", "description": "The latitude." },
+  { "mode": "NULLABLE", "type": "STRING", "name": "longitude", "description": "The longitude." },
+  { "mode": "NULLABLE", "type": "STRING", "name": "unknown_field_2", "description": "The course of the vessel." },
+  { "mode": "NULLABLE", "type": "STRING", "name": "unknown_field_3", "description": "The heading of the vessel." },
+  { "mode": "NULLABLE", "type": "STRING", "name": "unknown_field_4", "description": "Unknown field 4." },
+  { "mode": "NULLABLE", "type": "STRING", "name": "timestamp", "description": "The date of the message (YYMMDD)." },
+  { "mode": "NULLABLE", "type": "STRING", "name": "type", "description": "The type." }
+]
